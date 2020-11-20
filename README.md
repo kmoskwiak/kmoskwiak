@@ -11,16 +11,16 @@
 
 #### My latest articles
 
-<p cite="http://www.worldwildlife.org/who/index.html">
-   <a href="https://miro.medium.com/max/2000/1*utp25FPHbw5Rr1bxvhfsJw.png">
+<p>
+   <a href="https://medium.com/swlh/how-to-use-useeffect-on-server-side-654932c51b13">
     <b>How to use useEffect on server-side?</b>
     <br>
       <em>What a bummer — useEffect does not work on the server-side 😱 How to fetch and render data in React SSR application.</em>
   </a>
 </p>
 
-<p cite="http://www.worldwildlife.org/who/index.html">
-   <a href="https://miro.medium.com/max/2000/1*utp25FPHbw5Rr1bxvhfsJw.png">
+<p>
+   <a href="https://dev.to/kmoskwiak/async-iterators-in-js-database-iteration-in-nodejs-3pm9">
     <b>Async iterators in JS - database iteration in NodeJS</b>
     <br>
     <em>How to process entire database (MongoDB, Elasticsearch or PostgreSQL) using modern JavaScript tools. Should I use limit-offset, cursors or range query to get data from database? And why asynchronous iterators play well with database querying.</em>
