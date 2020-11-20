@@ -1,10 +1,13 @@
-### Hi! 🦄
+<p align="center">
+   <b> Hi! 🦄 </b>
+</p>
 
-<code><a href="https://kspr.dev">kspr.dev</a></code>
-<code><a href="https://www.linkedin.com/in/kasper-moskwiak/">LinkedIn</a></code>
-<code><a href="https://dev.to/kmoskwiak">dev.to</a></code>
-<code><a href="https://medium.com/@kaspermoskwiak">Medium</a></code>
-
+<p align="center">
+   <code><a href="https://kspr.dev">kspr.dev</a></code>
+   <code><a href="https://www.linkedin.com/in/kasper-moskwiak/">LinkedIn</a></code>
+   <code><a href="https://dev.to/kmoskwiak">dev.to</a></code>
+   <code><a href="https://medium.com/@kaspermoskwiak">Medium</a></code>
+</p>
 
 #### My latest articles
 
