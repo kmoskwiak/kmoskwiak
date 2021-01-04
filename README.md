@@ -12,6 +12,15 @@
 #### My latest articles
 
 <p>
+   <a href="https://medium.com/better-programming/a-memory-friendly-way-of-reading-files-in-node-js-a45ad0cc7bb6">
+      <b>A Memory-Friendly Way of Reading Files in Node.js</b>
+    <br>
+      <em>How to read gigabytes of data with a limited amount of memory</em>
+      <br><code>Better Programming / Medium</code>
+  </a>
+</p>
+
+<p>
    <a href="https://medium.com/swlh/how-to-use-useeffect-on-server-side-654932c51b13">
       <b>How to use useEffect on server-side?</b>
     <br>
